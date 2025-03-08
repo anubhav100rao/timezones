@@ -4,8 +4,8 @@ This is a simple app that allows you to get the current time in different time z
 
 ## Dependencies
 
-1. Python (I am using 3.13.1)
-2. Node (I am using v23.3.0)
+1. Python (I've used 3.13.1)
+2. Node (I've used v23.3.0)
 
 ## How to use
 
